@@ -1,0 +1,14 @@
+{
+  "telegram_token": "7784245247:AAF2l4dEBAwX2e51sShaBqsRQ4tD5VTIUwU",
+  "chat_id": "7359090290",
+  "mode": "demo",
+  "exness_login": "271176466",
+  "exness_password": "@Adnan003",
+  "exness_server": "Exness-MT5Trial14",
+  "max_trade_per_day": 5,
+  "risk_percent": 2,
+  "tp_pips": 30,
+  "sl_pips": 15,
+  "pair_list": ["XAUUSD", "EURUSD", "BTCUSD", "NAS100"],
+  "timeframes": ["5m", "15m", "1h"]
+}
