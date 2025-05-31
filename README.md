@@ -1,10 +1,39 @@
-# Untung_AI by Mr Adnn 💰
+# 🤖 Golden Profit Executor by Mr_adnn
 
-Sistem AI Trading Otomatis untuk Forex, Crypto, Saham.
-- ⏰ Auto trading multi-timeframe
-- 📈 Kirim sinyal ke Telegram @AdnanFXGuardBot
-- 🔁 Mode auto eksekusi Exness/MT5
-- 🧠 Ditenagai prediksi AI (zero-loss mode)
-- 🛡️ Anti manipulasi market & manajemen risiko otomatis
+Sistem AI Trading Otomatis Multi-Market (Forex, Saham, Crypto)  
+Dirancang khusus oleh Mr_adnn untuk profit tanpa analisa manual.
 
-Powered by: Golden Profit Executor v1
+---
+
+## 🚀 Fitur Utama:
+- 🔁 Auto-Trading langsung ke MetaTrader & Exness
+- 💬 Kendali penuh via Telegram bot: @AdnanFXGuardBot
+- 📈 Prediksi arah harga & momentum entry terbaik
+- 📊 Support semua timeframe: 1m, 5m, 15m, 1H, 4H, D1
+- 🔒 Sistem anti-loss dengan manajemen risiko cerdas
+- 💰 Laporan harian otomatis langsung ke Telegram
+
+---
+
+## 📲 Kontak Dukungan Resmi
+
+Untuk bantuan, demo, atau aktivasi sistem:
+
+- 👤 **Mr Adnan**
+- 🔗 [@Mradnan03](https://t.me/Mradnan03) ← Klik untuk langsung chat
+
+---
+
+## 🛡️ Status: Aktif & Siap Profit
+Sistem ini berjalan 24/7 dari VPS premium & auto-update mingguan.  
+Diuji dan disetujui langsung oleh Mr Adnan.
+
+---
+
+## 📌 Akses Cepat
+- Bot Telegram: [@AdnanFXGuardBot](https://t.me/AdnanFXGuardBot)
+- Website (Coming Soon)
+
+---
+
+> Powered by Mr_adnn Elite AI Trading System 💎
